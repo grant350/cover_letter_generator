@@ -1,0 +1,8 @@
+Dear {company_name} Hiring Team
+
+I've noticed that your company is based on automation, and I believe any company in that direction will be a long term success. I place value in companies who have a meaningful role in society and will change the world. My skills align very well for the {role} position.
+I am excited to contribute to {company_name} in a way that will make a big impact.
+
+Let me share some unique things about myself. I started programming when I was 16 years old, and the first book I picked up was javascript. I have always been curious about how to make websites, and how computers work. This passion I have always makes me humble to learn new things everyday. From years ago to now,  I am proficient in fullstack and some devops which is a great demanded skill in developer positions.
+
+
