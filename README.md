@@ -14,3 +14,21 @@
 ## change the template as needed to fit what you need, reccomended to start it in google docs and past into the template
 
 
+## How to use paragraphs in template to better organize the template?
+### any value thats an array will be made as a paragraph
+
+```json
+{
+    "paragraph1":[
+    "im a sentence 1",
+    "im a sentence 2",
+    "im a sentence 3"
+  ],
+  "paragraph2":[
+    "im a sentence 1",
+    "im a sentence 2",
+    "im a sentence 3"
+  ]
+}
+
+```
