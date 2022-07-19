@@ -11,5 +11,6 @@
 ## edit variables or add variables
 ### inside the template.txt use {} to place a variable key which should be in the json file. Add more keys as you wish, just make sure you add them to the template and cover_letter_gen.json
 
+## change the template as needed to fit what you need, reccomended to start it in google docs and past into the template
 
 
