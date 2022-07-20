@@ -20,15 +20,19 @@
 ```json
 {
     "paragraph1":[
-    "im a sentence 1",
-    "im a sentence 2",
-    "im a sentence 3"
+    "im a sentence 1 {role}.",
+    "im a sentence 2.",
+    "im a sentence 3."
   ],
   "paragraph2":[
-    "im a sentence 1",
-    "im a sentence 2",
-    "im a sentence 3"
+    "im a sentence 1.",
+    "im a sentence 2.",
+    "im a sentence 3."
   ]
 }
 
+```
+## you can also assign varibles inside of each string in json like this
+```json
+{"sentence":"this is my sentence {somevariable}."}
 ```

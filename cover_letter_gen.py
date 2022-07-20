@@ -12,10 +12,7 @@ with open('cover_letter_gen.json', 'r') as f:
     pdf.set_auto_page_break(auto=True, margin = 0.0)
 
     for line in text.splitlines():
-      print(line)
       line
       pdf.set_font("Arial", size=8)
       pdf.multi_cell(0,5, txt=line, border=0, align="J", fill=False)
     pdf.output("./cover_letters/cover_letter.pdf")
-
-    # pdf.output("./cover_letters/cover_letter.pdf")
