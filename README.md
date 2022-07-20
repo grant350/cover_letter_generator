@@ -32,7 +32,7 @@
 }
 
 ```
-## you can also assign varibles inside of each string in json like this
+## you can also assign variables inside of each string in json like this
 ```json
 {"sentence":"this is my sentence {somevariable}."}
 ```
